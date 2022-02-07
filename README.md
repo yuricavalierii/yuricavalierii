@@ -2,7 +2,7 @@
 - 👀 I’m interested  in adquirir conhecimento nas areas onde estou aprendendo.
 - 🌱 I’m currently learning HTML, CSS, e JS
 - 💞️ I’m looking to collaborate on  com meu conhecimento ajudar pessoas para solucionar algum problem.
-- 📫 How to reach me ...
+- 📫 How to reach me  Email yurilimacavalieri@gmail.com ou WhatsApp +55 34988307263
 
 
 <!---
