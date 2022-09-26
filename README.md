@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yuricavalierii
-- 👀 I’m interested  in adquirir conhecimento nas areas onde estou aprendendo.
-- 🌱 I’m currently learning HTML, CSS, e JS
-- 💞️ I’m looking to collaborate on  com meu conhecimento ajudar pessoas para solucionar algum problema.
-- 📫 How to reach me  Email yurilimacavalieri@gmail.com ou WhatsApp +55 34988307263
+- 👋 OLÁ, EU SOU @yuricavalierii
+- 👀 Estou no processo de adquirir conhecimento nas areas da programação.
+- 🌱 Estou aprendendo HTML, CSS, e JS parra atuar no Front End.
+- 💞️ Espero que com meu conhecimento eu possa ajudar pessoas para solucionar algum problema .
+- 📫 Como entrar em contato  Email yuricavalieripro@gmail.com ou WhatsApp +55 34988307263
 
 
 <!---
